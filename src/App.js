@@ -11,7 +11,7 @@ import Register from "./components/register/Register";
 // import Clarifai from "clarifai";
 
 // const app = new Clarifai.App({
-//   apiKey: "f297464b765e4076851d100e3f65a28f",
+//   apiKey: "",
 // });
 
 class App extends Component {
